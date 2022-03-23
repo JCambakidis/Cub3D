@@ -7,7 +7,7 @@ This is Cub3D Project of 42 School
      <img 
       src="https://img.youtube.com/vi/EcaKh0xlXBg/0.jpg" 
       alt="Cub3D" 
-      style="width:100%;">
+      style="width:50%;">
       </a>
    </div>
 
