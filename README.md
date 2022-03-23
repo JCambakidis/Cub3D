@@ -6,7 +6,7 @@ Your mission, kill all enemies !!!
 
 Inputs :
 
-- Move : W, A, S, D;
+- Move : ```bash W, A, S, D```
 - Run : Tab Left;
 - Rotate Camera : ←	↑ →	↓;
 - Attack : Alt Left;
@@ -23,6 +23,9 @@ Debug Mode Inputs :
 - Change Render Distance : +, -;
 - Change Pixels Resolution : PageUP, PageDown;
 
-In Cube3d Folder use : ./cub3d maps/map.cub
+In Cube3d Folder use : 
+```bash
+./cub3d maps/map.cub
+```
 
 GOOD LUCK !
