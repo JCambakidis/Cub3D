@@ -20,7 +20,7 @@ void	map_parsing_error(t_game *game)
 
 int	check_walls_flag(char c)
 {
-	return (c == 'A' || c == '1' || c == '0' || c == 'Q');
+	return (c == '2' || c == '1' || c == '0' || c == '3');
 }
 
 void	check_zero(t_game *game, t_map *map, int x, int y)

@@ -341,7 +341,7 @@ typedef struct s_pthread_param_sounds
 # define	RADIAN 0.01745329251
 # define	FOV 110
 # define	M_SENSIBILITY 1
-# define	THREADS 4
+# define	THREADS 16
 # define	WIN_DIVIDER 4
 
 # if DEBUG == 1

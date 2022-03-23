@@ -14,7 +14,7 @@
 
 void	check_enemy(t_game *game, t_interval xy, int zlocation, int *count)
 {
-	if (game->map.map_datas[(int)xy.istop][(int)xy.istart] == '2')
+	if (game->map.map_datas[(int)xy.istop][(int)xy.istart] == 'A')
 	{
 		game->map.map_datas[(int)xy.istop][(int)xy.istart] = '0';
 		game->map.enemys[*count] = ft_create_enemy(game, create_wall(1, 0, 0, -(int)xy.istop), \
@@ -91,7 +91,7 @@ void	init_sprites(t_game *game, float zlocation)
 		x = -1;
 		while (game->map.map_datas[y][++x])
 		{
-			if (game->map.map_datas[y][x] == '2')
+			if (game->map.map_datas[y][x] == 'A')
 				count++;
 			if (game->map.map_datas[y][x] == 'H')
 				objects_count++;

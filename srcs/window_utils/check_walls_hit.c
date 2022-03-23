@@ -67,7 +67,7 @@ int	check_walls_flags(t_game *game, t_wall_hit_param params)
 			return (1);
 	}
 	if (game->map.map_datas[(int)params.inter_p.vy][(int)params.inter_p.vx] \
-		== 'Q')
+		== '3')
 	{
 		if (check_to_pixel_put_b(game, params, game->textures_hidden))
 			return (1);
@@ -75,7 +75,7 @@ int	check_walls_flags(t_game *game, t_wall_hit_param params)
 			return (1);
 	}
 	if (game->map.map_datas[(int)params.inter_p.vy][(int)params.inter_p.vx] \
-		== 'A')
+		== '2')
 	{
 		if (check_to_pixel_put_b(game, params, game->textures_bis))
 			return (1);

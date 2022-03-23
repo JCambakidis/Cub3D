@@ -42,8 +42,8 @@ void	generate_minimap(t_game *game)
 		while (game->map.map_datas[i][++j])
 		{
 			if (game->map.map_datas[i][j] == '1' || \
-				game->map.map_datas[i][j] == 'A' || \
-					game->map.map_datas[i][j] == 'Q')
+				game->map.map_datas[i][j] == '2' || \
+					game->map.map_datas[i][j] == '3')
 			{
 				bettermlx_set_color(game->minimap.minimap, j, i, \
 					create_color(0, 255, 255, 255));
