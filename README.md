@@ -2,9 +2,9 @@
 
 This is Cub3D Project of 42 School 
 
-<iframe width="420" height="315"
+<p><iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=EcaKh0xlXBg">
-</iframe>
+</iframe></p>
 
 Your mission, kill all enemies !!!
 
