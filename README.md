@@ -45,8 +45,8 @@ Example of map file :
 Map legend:
 ```
 N,S,E,W : Player location
-1,2 : Walls
-3 : No collided walls
+1,2 : Wall
+3 : Collision free wall
 0 : Empty space
 A : Enemy
 H : Heal power up
