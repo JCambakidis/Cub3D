@@ -1,8 +1,15 @@
 # Cub3D
 
 This is Cub3D Project of 42 School 
-<p text_align:"center">
-[![Cub3D](https://img.youtube.com/vi/EcaKh0xlXBg/0.jpg)](https://www.youtube.com/watch?v=EcaKh0xlXBg "Cub3D - Click to Watch!")</p>
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=EcaKh0xlXBg">
+     <img 
+      src="https://img.youtube.com/vi/EcaKh0xlXBg/0.jpg" 
+      alt="Cub3D" 
+      style="width:100%;">
+      </a>
+   </div>
 
 Your mission, kill all enemies !!!
 
