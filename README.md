@@ -6,7 +6,7 @@ Your mission, kill all enemies !!!
 
 Inputs :
 
-- Move : ```bash W, A, S, D```
+- Move : ```W, A, S, D```
 - Run : Tab Left;
 - Rotate Camera : ←	↑ →	↓;
 - Attack : Alt Left;
