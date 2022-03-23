@@ -3,7 +3,7 @@
 This is Cub3D Project of 42 School 
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=EcaKh0xlXBg">
+      <a href="https://www.youtube.com/watch?v=EcaKh0xlXBg" target="_blank">
      <img 
       src="https://img.youtube.com/vi/EcaKh0xlXBg/0.jpg" 
       alt="Cub3D" 
