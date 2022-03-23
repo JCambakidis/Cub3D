@@ -42,10 +42,23 @@ Example of map file :
 10000000011111
 1111111111
 ```
+Map legend:
+```
+N,S,E,W : Player location
+1,2 : Walls
+3 : No collided walls
+0 : Empty space
+A : Enemy
+H : Heal power up
+```
 
 In Cube3d Folder use : 
-```bash
+```
 ./cub3d maps/map.cub
+```
+or
+```
+make sh
 ```
 
 GOOD LUCK !
