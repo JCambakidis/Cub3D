@@ -17,7 +17,7 @@ Inputs :
 
 - Move : ```W, A, S, D```
 - Run : ```Tab Left```
-- Rotate Camera : ```←	↑ →	↓```
+- Rotate Camera : ```←	↑ →	↓ or mouse```
 - Attack : ```Alt Left```
 - Jump : ```Space```
 - Guard : ```Tab Right```
