@@ -32,6 +32,17 @@ Debug Mode Inputs :
 - Change Render Distance : ```+, -```
 - Change Pixels Resolution : ```PageUP, PageDown```
 
+Example of map file :
+```
+1111111111
+1000000001
+10000100011111
+10000000000201
+10W00100000001
+10000000011111
+1111111111
+```
+
 In Cube3d Folder use : 
 ```bash
 ./cub3d maps/map.cub
