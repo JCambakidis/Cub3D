@@ -2,7 +2,7 @@
 
 This is Cub3D Project of 42 School 
 
-[![Cub3D](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=EcaKh0xlXBg "Cub3D - Click to Watch!")
+[![Cub3D](https://img.youtube.com/vi/EcaKh0xlXBg/0.jpg)](https://www.youtube.com/watch?v=EcaKh0xlXBg "Cub3D - Click to Watch!")
 
 <p><iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=EcaKh0xlXBg">
